@@ -17,10 +17,10 @@ public class pass_by_value {
 
 }
 
-class Animal {
+class Animal1 {
     String name;
 
-    public Animal(String name) {
+    public Animal1(String name) {
         this.name = name;
     }
 
